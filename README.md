@@ -5,12 +5,12 @@ Welcome to my projects portfolio! This repository contains the following project
 ## 1. Cars EDA + Machine Learning
 
 - **Description:** This Jupyter notebook explores an automobile dataset through exploratory data analysis (EDA) techniques. It also includes some machine learning models for predicting certain features related to automobiles.
-- **File:** [cars EDA + machine learning.ipynb](Cars EDA + machine learning/cars EDA + machine learning.ipynb)
+- **File:** [EDA_ML.ipynb](Cars_EDA_machine_learning/EDA_ML.ipynb)
 
 ## 2. Destiny 2 Player Activity Analysis
 
 - **Description:** This Jupyter notebook analyzes Destiny 2 player activity data to gain insights into player behavior and engagement with the game.
-- **File:** [d2_project.ipynb](D2 project/d2_project.ipynb)
+- **File:** [d2_project.ipynb](d2_project/d2_project.ipynb)
 
 ## 3. Optimization Task using Frank-Wolfe Method
 
