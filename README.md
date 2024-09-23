@@ -4,7 +4,7 @@ Welcome to my projects portfolio! This repository contains the following project
 
 ## 1. Optimal trade execution using ML and RL 
 - **Description:** This is my Master's thesis in which I've used many different machine learning models to predict stock prices.
-- **File:** [Master's.pdf](praca_magisterska (8).pdf)
+- **File:** [Master's.pdf](praca_magisterska%20(8).pdf)
 
 ## 2. Cars EDA + Machine Learning
 
