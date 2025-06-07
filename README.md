@@ -21,10 +21,10 @@ Welcome to my projects portfolio! This repository contains the following project
 - **Description:** This Jupyter notebook analyzes Destiny 2 player activity data to gain insights into player behavior and engagement with the game.
 - **File:** [d2_project.ipynb](d2_project/d2_project.ipynb)
 
-## 5. Optimization Task using Frank-Wolfe Method
+## 5. BI dashboard - sales
 
-- **Description:** This Jupyter notebook implements an optimization task using the Frank-Wolfe method, demonstrating its application in solving optimization problems.
-- **File:** [Optimization.ipynb](Optimization/Optimization.ipynb)
+- **Description:** This PowerBI dashboard shows key elements and metrics.
+- **File:** [Sales_dashboard](Jaskolski.pbix)
 
 ## Getting Started
 
