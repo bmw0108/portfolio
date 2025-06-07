@@ -24,7 +24,7 @@ Welcome to my projects portfolio! This repository contains the following project
 ## 5. BI dashboard - sales
 
 - **Description:** This PowerBI dashboard shows key elements and metrics.
-- **File:** [Sales_dashboard](PowerBI/Jaskolski.pbix)
+- **File:** [Sales_dashboard](PowerBI/)
 
 ## Getting Started
 
