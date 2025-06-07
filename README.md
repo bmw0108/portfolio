@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-Welcome to my projects portfolio! This repository contains the following projects:
+Welcome to my projects portfolio! This repository contains projects on data science, machine learning and data visualisation.
 
 ## 1. Optimal trade execution using ML and RL 
 - **Description:** This is my Master's thesis in which I've used many different machine learning models to predict stock prices.
